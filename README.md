@@ -1,6 +1,11 @@
 # SQL Projects and Scripts Repository
 
-💡 This repository contains a collection of SQL projects, queries, and scripts that showcase various database management techniques and best practices. It includes examples of data manipulation, data definition, and data control language (DML, DDL, and DCL), as well as advanced SQL functionalities such as stored procedures, triggers, and views.
+💡 This repository contains a collection of SQL projects, queries, and scripts that showcase various database management techniques and best practices. It includes examples of data manipulation, data definition, and data control language (DML, DDL, and DCL), as well as advanced SQL functionalities such as stored procedures, triggers, and views. 
+
+### Software
+- **MySQL**
+- **Oracle**
+- **SQL Server**
 
 ### Contents
 - **Sample Databases**: Example databases for practice and testing.
