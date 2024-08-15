@@ -11,7 +11,7 @@
    DBMS often come with sophisticated Design and Administration Tools - softwares that an actual user uses to
    work with the data inside databases. For example: MySQL Workbench, Oracle SQL Developer.
    
-3. Schema - a schema is a different name for a table.
+3. Schema - A schema is a related concept to a database and tables. It is however something different from both. A schema is all the data that a database can store but it describes also the connections, indexes, data structures, views, stored procedures and functions. When we say `Sakila` database we are more focused on the data itself. Saying `Sakila` schema highlights also other aspects of the database.
 
 4. sakila and world databases - preinstalled databases that come as sample databases with the installation
 of MySQL. MySQL also offers an easy way to display a limited number of returned rows from a query.
@@ -85,4 +85,12 @@ CREATE OR REPLACE VIEW polish_cities AS
 	);
     
 SELECT * FROM polish_cities;
+
+
+
+
+
+
+
+
 	
